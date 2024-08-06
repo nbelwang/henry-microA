@@ -43,5 +43,5 @@ To receive data from the microservice, the `receiver.py` file listens for incomi
 
 ## UML Sequence Diagram
 
-![UML Sequence Diagram](diagram.png)
+![UML Sequence Diagram](diagram.jpg)
 
